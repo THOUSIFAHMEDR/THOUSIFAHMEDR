@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80" width="100%"/>
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80"  heighth="50%" width="100%"/>
 
 # Thousif Ahmed R
 
@@ -61,16 +61,6 @@ Hey, I'm Thousif — a BCA student at East Point College, Bengaluru, with a pass
 
 *More projects coming soon as I progress through my MERN roadmap.*
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-
-</div>
-
----
 
 <div align="center">
 
