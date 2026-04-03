@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80" width="100%"/>
 
 # Thousif Ahmed R
 
@@ -67,9 +67,6 @@ Hey, I'm Thousif — a BCA student at East Point College, Bengaluru, with a pass
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thousifahmedr&show_icons=true&theme=default&hide_border=true&title_color=1a1a2e&icon_color=0A66C2&text_color=333333&bg_color=ffffff" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thousifahmedr&layout=compact&theme=default&hide_border=true&title_color=1a1a2e&text_color=333333&bg_color=ffffff" height="150"/>
 
 </div>
 
