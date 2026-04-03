@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80"  heighth="50%" width="100%"/>
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80"  heighth="40%" width="40%"/>
 
 # Thousif Ahmed R
 
