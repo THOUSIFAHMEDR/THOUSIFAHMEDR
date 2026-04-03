@@ -10,7 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thousif_Ahmed_R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/THOUSIF_AHMED_R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thousif_Ahmed_R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/thousif-ahmed-r-3a4643328)
+
+)
 [![GitHub](https://img.shields.io/badge/GitHub-thousifahmedr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thousifahmedr)
 
 </div>
