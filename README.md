@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80"  heighth="40%" width="40%"/>
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80" width="40%"/>
 
 # Thousif Ahmed R
 
@@ -10,9 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thousif_Ahmed_R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/thousif-ahmed-r-3a4643328)
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thousif_Ahmed_R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thousif-ahmed-r-3a4643328)
 [![GitHub](https://img.shields.io/badge/GitHub-thousifahmedr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thousifahmedr)
 
 </div>
@@ -61,6 +59,17 @@ Hey, I'm Thousif — a BCA student at East Point College, Bengaluru, with a pass
 
 *More projects coming soon as I progress through my MERN roadmap.*
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thousifahmedr&theme=default" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
