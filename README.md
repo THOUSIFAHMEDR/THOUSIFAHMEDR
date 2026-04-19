@@ -1,11 +1,8 @@
 <div align="center">
-
 <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_incoming&w=740&q=80" width="40%"/>
 
 # Thousif Ahmed R
-
 **BCA Student · Aspiring Full Stack Developer**
-
 *Building the web, one component at a time.*
 
 <br/>
@@ -53,9 +50,10 @@ Hey, I'm Thousif — a BCA student at East Point College, Bengaluru, with a pass
 
 ## Projects
 
-| Project | Description | Stack | Repo |
-|---|---|---|---|
-| 🎬 Netflix Clone | A front-end clone of Netflix with responsive UI | HTML · CSS · JS | [View →](https://github.com/thousifahmedr/netflix-clone) |
+| Project | Description | Stack | Live | Repo |
+|---|---|---|---|---|
+| 🎵 Spotify Clone | Full stack music streaming app with auth, player, search & playlists | HTML · CSS · JS · Node · Express · MongoDB | [Live →](https://thousif-spotify.onrender.com) | [View →](https://github.com/thousifahmedr/spotify-clone) |
+| 🎬 Netflix Clone | A front-end clone of Netflix with responsive UI | HTML · CSS · JS | — | [View →](https://github.com/thousifahmedr/netflix-clone) |
 
 *More projects coming soon as I progress through my MERN roadmap.*
 
@@ -64,17 +62,13 @@ Hey, I'm Thousif — a BCA student at East Point College, Bengaluru, with a pass
 ## GitHub Stats
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thousifahmedr&theme=default" width="100%"/>
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
 *Open to collaborations, internships, and learning opportunities.*
-
 </div>
