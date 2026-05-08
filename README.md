@@ -22,9 +22,9 @@ Hey, I'm **Thousif** — a BCA student at East Point College, Bengaluru, with a 
 
 ```text
 🎓  BCA @ East Point College, Bengaluru
-🚀  Currently mastering: Node.js · Express · React · MongoDB
+🚀  Currently mastering: React · Tailwind CSS · MongoDB · REST APIs
 🔐  Recent focus: REST APIs · JWT Auth · bcrypt · MongoDB Atlas
-🌱  Frontend ✅  →  Backend ✅  →  React (in progress)
+🌱  Frontend ✅  →  Backend ✅  →  React (next)
 💡  Philosophy: Build real things. Break them. Fix them. Ship them.
 ```
 
@@ -38,6 +38,7 @@ Hey, I'm **Thousif** — a BCA student at East Point College, Bengaluru, with a 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
@@ -64,6 +65,7 @@ Hey, I'm **Thousif** — a BCA student at East Point College, Bengaluru, with a 
 |---|---------|-------------|-------|------|------|
 | 🎵 | **Spotify Clone** | Full-stack music streaming app with JWT auth, music player, real-time search & playlist creation | HTML · CSS · JS · Node · Express · MongoDB | [Live →](https://thousif-spotify.onrender.com) | [View →](https://github.com/thousifahmedr/spotify-clone) |
 | ✅ | **Full-Stack To-Do List** | Secure task manager with user auth, JWT-protected routes, bcrypt password hashing & full CRUD | HTML · CSS · JS · Node · Express · MongoDB · JWT | — | [View →](https://github.com/THOUSIFAHMEDR/full-stack-todo-list) |
+| 📝 | **Notes REST API** | Clean REST API with full CRUD, MVC architecture, MongoDB Atlas & environment-based config | Node · Express · MongoDB · Mongoose | — | [View →](https://github.com/THOUSIFAHMEDR/notes-api) |
 | 🎬 | **Netflix Clone** | Responsive front-end clone of Netflix with pixel-perfect UI | HTML · CSS · JS | — | [View →](https://github.com/thousifahmedr/netflix-clone) |
 
 > 🔄 *More projects shipping as I progress through my MERN roadmap — stay tuned.*
