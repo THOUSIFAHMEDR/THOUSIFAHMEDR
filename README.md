@@ -24,7 +24,7 @@ Hey, I'm **Thousif** — a BCA student at East Point College, Bengaluru, with a 
 🎓  BCA @ East Point College, Bengaluru
 🚀  Currently mastering: React · Tailwind CSS · MongoDB · REST APIs
 🔐  Recent focus: REST APIs · JWT Auth · bcrypt · MongoDB Atlas
-🌱  Frontend ✅  →  Backend ✅  →  React (next)
+🌱  Frontend ✅  →  Backend ✅  →  React ✅  →  TypeScript (next)
 💡  Philosophy: Build real things. Break them. Fix them. Ship them.
 ```
 
@@ -64,6 +64,7 @@ Hey, I'm **Thousif** — a BCA student at East Point College, Bengaluru, with a 
 | # | Project | Description | Stack | Live | Repo |
 |---|---------|-------------|-------|------|------|
 | 🎵 | **Spotify Clone** | Full-stack music streaming app with JWT auth, music player, real-time search & playlist creation | HTML · CSS · JS · Node · Express · MongoDB | [Live →](https://thousif-spotify.onrender.com) | [View →](https://github.com/thousifahmedr/spotify-clone) |
+| 🗂️ | **Data Explorer** | React app that fetches & displays live data from 6 REST API endpoints as dynamic cards with smart type rendering | React · Vite · REST API · GitHub Pages | [Live →](https://thousifahmedr.github.io/my-app) | [View →](https://github.com/thousifahmedr/my-app) |
 | ✅ | **Full-Stack To-Do List** | Secure task manager with user auth, JWT-protected routes, bcrypt password hashing & full CRUD | HTML · CSS · JS · Node · Express · MongoDB · JWT | — | [View →](https://github.com/THOUSIFAHMEDR/full-stack-todo-list) |
 | 📝 | **Notes REST API** | Clean REST API with full CRUD, MVC architecture, MongoDB Atlas & environment-based config | Node · Express · MongoDB · Mongoose | — | [View →](https://github.com/THOUSIFAHMEDR/notes-api) |
 | 🎬 | **Netflix Clone** | Responsive front-end clone of Netflix with pixel-perfect UI | HTML · CSS · JS | — | [View →](https://github.com/thousifahmedr/netflix-clone) |
@@ -79,7 +80,6 @@ Hey, I'm **Thousif** — a BCA student at East Point College, Bengaluru, with a 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thousifahmedr&theme=tokyonight" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thousifahmedr&theme=tokyonight" height="165"/>
-
 
 <br/><br/>
 
